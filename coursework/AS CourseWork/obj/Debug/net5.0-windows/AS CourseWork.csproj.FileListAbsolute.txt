@@ -1,0 +1,170 @@
+Z:\SSD AS level\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.exe
+Z:\SSD AS level\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.deps.json
+Z:\SSD AS level\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.json
+Z:\SSD AS level\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.dev.json
+Z:\SSD AS level\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.dll
+Z:\SSD AS level\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\ref\AS CourseWork.dll
+Z:\SSD AS level\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.pdb
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.AssemblyReference.cache
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Create.resources
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Form1.resources
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Login.resources
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Properties.Resources.resources
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.GenerateResource.cache
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfoInputs.cache
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfo.cs
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.CoreCompileInputs.cache
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.dll
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\ref\AS CourseWork.dll
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.pdb
+Z:\SSD AS level\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.genruntimeconfig.cache
+D:\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.exe
+D:\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.deps.json
+D:\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.json
+D:\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.dev.json
+D:\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.dll
+D:\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.pdb
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.AssemblyReference.cache
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Create.resources
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Form1.resources
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Login.resources
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Properties.Resources.resources
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.GenerateResource.cache
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfoInputs.cache
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfo.cs
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.CoreCompileInputs.cache
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.dll
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.pdb
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.genruntimeconfig.cache
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\ref\AS CourseWork.dll
+D:\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Yahtzee.resources
+D:\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\ref\AS CourseWork.dll
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Create.resources
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Form1.resources
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Login.resources
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Properties.Resources.resources
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Yahtzee.resources
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\ref\AS CourseWork.dll
+C:\Users\Nathan\Desktop\yurr\ros\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Create.resources
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Form1.resources
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Login.resources
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Properties.Resources.resources
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.exe
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.deps.json
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.json
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.dev.json
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\refint\AS CourseWork.dll
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\apps\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\ref\AS CourseWork.dll
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Create.resources
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.FirstScreen.resources
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Login.resources
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Properties.Resources.resources
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.QuestionType.resources
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\ref\AS CourseWork.dll
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.exe
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.deps.json
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.json
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.dev.json
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\ref\AS CourseWork.dll
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Form1.resources
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\combine\p1-main\ros-reg-main - Copy\ros-reg-main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.QuestionPick.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.exe
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.deps.json
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.json
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.dev.json
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Create.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.FirstScreen.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Login.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Form1.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Properties.Resources.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.QuestionPick.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.QuestionType.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\refint\AS CourseWork.dll
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\ref\AS CourseWork.dll
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\AS CourseWork\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.DnDForm.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Create.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.DnDForm.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.FirstScreen.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Login.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Form1.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Properties.Resources.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.QuestionPick.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.QuestionType.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Resources.Resources.resources
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\refint\AS CourseWork.dll
+C:\Users\Nathan\Desktop\main\main-main\main-main\p1-main\main\main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Create.resources
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.DnDForm.resources
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.FirstScreen.resources
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Login.resources
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Form1.resources
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.QuestionPick.resources
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.QuestionType.resources
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS_CourseWork.Resources.Resources.resources
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\ref\AS CourseWork.dll
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.exe
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.deps.json
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.json
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.runtimeconfig.dev.json
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.dll
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\bin\Debug\net5.0-windows\ref\AS CourseWork.dll
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\bin\Debug\net5.0-windows\AS CourseWork.pdb
+C:\Users\Nathan\Desktop\24 03 23\24-03-23-main\coursework\AS CourseWork\obj\Debug\net5.0-windows\AS CourseWork.genruntimeconfig.cache
